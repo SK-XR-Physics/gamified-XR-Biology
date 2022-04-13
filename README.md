@@ -1,6 +1,9 @@
 # gamified-XR-Biology Introduction
-This is the project file of Module Biology along with the source code and assets.
 
-# How to install project file to merge with your project
+## Overview
+This repository contains the files for Biology Module:
+- Scripts and Source Codes
+- 3D Models
+- Prefab Objects
 
-# How to install project file using unity package
+## How to install project file using unity package
