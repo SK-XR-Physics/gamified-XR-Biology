@@ -12,6 +12,7 @@ The developers should have the following version of the application.
 - Android SDK / JDK
 - Windows Platform
 - Current Version of the Main Project [Github](https://github.com/SK-XR-Physics/gamified-XR-SourceCode).
+
 Note: This is only the specific files and assets used the Biology Module
 
 ## Setting up the project file
